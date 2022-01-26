@@ -1,4 +1,3 @@
 <?
-echo phpinfo();
-echo phpinfo();
+echo 'ÏßÏÂ';
 ?>
